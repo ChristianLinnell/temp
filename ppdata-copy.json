@@ -1,12 +1,13 @@
-﻿{
+{
       "@context": "https://www.data.govt.nz/catalog.jsonld",
       "@id": "https://paperspast.natlib.govt.nz/data.json/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
+        "@type": "dcat:Dataset",
         "title": "Papers Past Open Data: Dunstan Times 1866-1899",
-        "description": "Papers Past�is a website run by the National Library of New Zealand. It provides free fully-text searchable access to historic newspapers, periodicals and other material.\nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at�What is METS/ALTO?\nThis dataset consists of the METS/ALTO XML files for the Dunstan Times for 1866-1899.",
+        "description": "Description",
         "identifier": "https://paperspast.natlib.govt.nz/newspapers/dunstan-times",
         "theme": "Papers Past Open Data",
         "issued": "2020-08-24",
