@@ -1,0 +1,231 @@
+﻿{
+      "@context": "https://www.data.govt.nz/catalog.jsonld",
+      "@id": "https://paperspast.natlib.govt.nz/data.json/data.json",
+      "@type": "dcat:Catalog",
+      "conformsTo": "https://www.data.govt.nz/toolkit/schema",
+      "dataset":[
+    {
+        "title": "Papers Past Open Data: Dunstan Times 1866-1899",
+        "description": "Papers Past�is a website run by the National Library of New Zealand. It provides free fully-text searchable access to historic newspapers, periodicals and other material.\nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at�What is METS/ALTO?\nThis dataset consists of the METS/ALTO XML files for the Dunstan Times for 1866-1899.",
+        "identifier": "https://paperspast.natlib.govt.nz/newspapers/dunstan-times",
+        "theme": "Papers Past Open Data",
+        "issued": "2020-08-24",
+        "publisher": {
+            "name": "Department of Internal Affairs"
+        },
+        "contactPoint": {
+            "fn": "Papers Past",
+            "hasEmail": "paperspast@natlib.govt.nz"
+        },
+        "accrualPeriodicity": "R/P1Y",
+        "landingPage": "https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/dataset-papers-past-newspaper-open-data-pilot",
+        "language": "English",
+        "temporal": "1866/1899",
+        "distribution": [
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1866.tar.gz",
+                "title": "Dunstan Times 1866",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1866. These have been compressed into a TAR Gzip archive (16.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1867.tar.gz",
+                "title": "Dunstan Times 1867",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1867. These have been compressed into a TAR Gzip archive (17.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1868.tar.gz",
+                "title": "Dunstan Times 1868",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1868. These have been compressed into a TAR Gzip archive (19.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1869.tar.gz",
+                "title": "Dunstan Times 1869",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1869. These have been compressed into a TAR Gzip archive (19.7MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1870.tar.gz",
+                "title": "Dunstan Times 1870",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1870. These have been compressed into a TAR Gzip archive (23.5MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1871.tar.gz",
+                "title": "Dunstan Times 1871",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1871. These have been compressed into a TAR Gzip archive (25.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1872.tar.gz",
+                "title": "Dunstan Times 1872",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1872. These have been compressed into a TAR Gzip archive (26.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1873.tar.gz",
+                "title": "Dunstan Times 1873",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1873. These have been compressed into a TAR Gzip archive (29.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1874.tar.gz",
+                "title": "Dunstan Times 1874",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1874. These have been compressed into a TAR Gzip archive (26MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1875.tar.gz",
+                "title": "Dunstan Times 1875",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1875. These have been compressed into a TAR Gzip archive (28.7MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1876.tar.gz",
+                "title": "Dunstan Times 1876",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1876. These have been compressed into a TAR Gzip archive (28.5MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1877.tar.gz",
+                "title": "Dunstan Times 1877",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1877. These have been compressed into a TAR Gzip archive (28.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1878.tar.gz",
+                "title": "Dunstan Times 1878",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1878. These have been compressed into a TAR Gzip archive (27.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1879.tar.gz",
+                "title": "Dunstan Times 1879",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1879. These have been compressed into a TAR Gzip archive (27.8MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1880.tar.gz",
+                "title": "Dunstan Times 1880",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1880. These have been compressed into a TAR Gzip archive (29.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1881.tar.gz",
+                "title": "Dunstan Times 1881",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1881. These have been compressed into a TAR Gzip archive (27.5MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1882.tar.gz",
+                "title": "Dunstan Times 1882",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1882. These have been compressed into a TAR Gzip archive (28.3MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1883.tar.gz",
+                "title": "Dunstan Times 1883",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1883. These have been compressed into a TAR Gzip archive (30.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1884.tar.gz",
+                "title": "Dunstan Times 1884",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1884. These have been compressed into a TAR Gzip archive (32.3MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1885.tar.gz",
+                "title": "Dunstan Times 1885",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1885. These have been compressed into a TAR Gzip archive (30.8MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1886.tar.gz",
+                "title": "Dunstan Times 1886",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1886. These have been compressed into a TAR Gzip archive (31.9MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1887.tar.gz",
+                "title": "Dunstan Times 1887",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1887. These have been compressed into a TAR Gzip archive (30.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1888.tar.gz",
+                "title": "Dunstan Times 1888",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1888. These have been compressed into a TAR Gzip archive (30.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1889.tar.gz",
+                "title": "Dunstan Times 1889",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1889. These have been compressed into a TAR Gzip archive (32MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1890.tar.gz",
+                "title": "Dunstan Times 1890",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1890. These have been compressed into a TAR Gzip archive (33.1MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1891.tar.gz",
+                "title": "Dunstan Times 1891",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1891. These have been compressed into a TAR Gzip archive (32.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1892.tar.gz",
+                "title": "Dunstan Times 1892",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1892. These have been compressed into a TAR Gzip archive (37.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1893.tar.gz",
+                "title": "Dunstan Times 1893",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1893. These have been compressed into a TAR Gzip archive (43MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1894.tar.gz",
+                "title": "Dunstan Times 1894",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1894. These have been compressed into a TAR Gzip archive (49.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1895.tar.gz",
+                "title": "Dunstan Times 1895",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1895. These have been compressed into a TAR Gzip archive (41.8MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1896.tar.gz",
+                "title": "Dunstan Times 1896",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1896. These have been compressed into a TAR Gzip archive (64.9MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1897.tar.gz",
+                "title": "Dunstan Times 1897",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1897. These have been compressed into a TAR Gzip archive (65.3MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1898.tar.gz",
+                "title": "Dunstan Times 1898",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1898. These have been compressed into a TAR Gzip archive (59.3MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/DUNST/DUNST_1899.tar.gz",
+                "title": "Dunstan Times 1899",
+                "description": "METS/ALTO XML files for the Dunstan Times of 1899. These have been compressed into a TAR Gzip archive (59.3MB).",
+                "format": "XML"
+            }
+        ]
+    }
+]}
