@@ -228,5 +228,224 @@
                 "format": "XML"
             }
         ]
+    },
+    {
+        "@type": "dcat:Dataset",
+        "title": "Papers Past Open Data: Evening Star 1865-1899",
+        "description": "Papers Past�is a website run by the National Library of New Zealand. It provides free fully-text searchable access to historic newspapers, periodicals and other material.\nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at�What is METS/ALTO?<br/>This dataset consists of the METS/ALTO XML files for the Evening Star for 1865-1899.",
+        "identifier": "https://paperspast.natlib.govt.nz/newspapers/evening-star",
+        "theme": "Papers Past Open Data",
+        "issued": "2020-08-24",
+        "publisher": {
+            "name": "Department of Internal Affairs"
+        },
+        "contactPoint": {
+            "fn": "Papers Past",
+            "hasEmail": "paperspast@natlib.govt.nz"
+        },
+        "accrualPeriodicity": "R/P1Y",
+        "landingPage": "https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/dataset-papers-past-newspaper-open-data-pilot",
+        "language": "English",
+        "temporal": "1865/1899",
+        "distribution": [
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1865.tar.gz",
+                "title": "Evening Star 1865",
+                "description": "METS/ALTO XML files for the Evening Star of 1865. These have been compressed into a TAR Gzip archive (13.5MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1866.tar.gz",
+                "title": "Evening Star 1866",
+                "description": "METS/ALTO XML files for the Evening Star of 1866. These have been compressed into a TAR Gzip archive (8MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1869.tar.gz",
+                "title": "Evening Star 1869",
+                "description": "METS/ALTO XML files for the Evening Star of 1869. These have been compressed into a TAR Gzip archive (73.5MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1870.tar.gz",
+                "title": "Evening Star 1870",
+                "description": "METS/ALTO XML files for the Evening Star of 1870. These have been compressed into a TAR Gzip archive (130.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1871.tar.gz",
+                "title": "Evening Star 1871",
+                "description": "METS/ALTO XML files for the Evening Star of 1871. These have been compressed into a TAR Gzip archive (143.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1872.tar.gz",
+                "title": "Evening Star 1872",
+                "description": "METS/ALTO XML files for the Evening Star of 1872. These have been compressed into a TAR Gzip archive (152.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1873.tar.gz",
+                "title": "Evening Star 1873",
+                "description": "METS/ALTO XML files for the Evening Star of 1873. These have been compressed into a TAR Gzip archive (215MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1874.tar.gz",
+                "title": "Evening Star 1874",
+                "description": "METS/ALTO XML files for the Evening Star of 1874. These have been compressed into a TAR Gzip archive (211.1MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1875.tar.gz",
+                "title": "Evening Star 1875",
+                "description": "METS/ALTO XML files for the Evening Star of 1875. These have been compressed into a TAR Gzip archive (212.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1876.tar.gz",
+                "title": "Evening Star 1876",
+                "description": "METS/ALTO XML files for the Evening Star of 1876. These have been compressed into a TAR Gzip archive (221.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1877.tar.gz",
+                "title": "Evening Star 1877",
+                "description": "METS/ALTO XML files for the Evening Star of 1877. These have been compressed into a TAR Gzip archive (235.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1878.tar.gz",
+                "title": "Evening Star 1878",
+                "description": "METS/ALTO XML files for the Evening Star of 1878. These have been compressed into a TAR Gzip archive (254.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1879.tar.gz",
+                "title": "Evening Star 1879",
+                "description": "METS/ALTO XML files for the Evening Star of 1879. These have been compressed into a TAR Gzip archive (268.9MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1880.tar.gz",
+                "title": "Evening Star 1880",
+                "description": "METS/ALTO XML files for the Evening Star of 1880. These have been compressed into a TAR Gzip archive (270.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1881.tar.gz",
+                "title": "Evening Star 1881",
+                "description": "METS/ALTO XML files for the Evening Star of 1881. These have been compressed into a TAR Gzip archive (276.6MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1882.tar.gz",
+                "title": "Evening Star 1882",
+                "description": "METS/ALTO XML files for the Evening Star of 1882. These have been compressed into a TAR Gzip archive (278.8MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1883.tar.gz",
+                "title": "Evening Star 1883",
+                "description": "METS/ALTO XML files for the Evening Star of 1883. These have been compressed into a TAR Gzip archive (305MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1884.tar.gz",
+                "title": "Evening Star 1884",
+                "description": "METS/ALTO XML files for the Evening Star of 1884. These have been compressed into a TAR Gzip archive (330.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1885.tar.gz",
+                "title": "Evening Star 1885",
+                "description": "METS/ALTO XML files for the Evening Star of 1885. These have been compressed into a TAR Gzip archive (335.1MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1886.tar.gz",
+                "title": "Evening Star 1886",
+                "description": "METS/ALTO XML files for the Evening Star of 1886. These have been compressed into a TAR Gzip archive (338MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1887.tar.gz",
+                "title": "Evening Star 1887",
+                "description": "METS/ALTO XML files for the Evening Star of 1887. These have been compressed into a TAR Gzip archive (360MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1888.tar.gz",
+                "title": "Evening Star 1888",
+                "description": "METS/ALTO XML files for the Evening Star of 1888. These have been compressed into a TAR Gzip archive (338.3MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1889.tar.gz",
+                "title": "Evening Star 1889",
+                "description": "METS/ALTO XML files for the Evening Star of 1889. These have been compressed into a TAR Gzip archive (343.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1890.tar.gz",
+                "title": "Evening Star 1890",
+                "description": "METS/ALTO XML files for the Evening Star of 1890. These have been compressed into a TAR Gzip archive (360.3MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1891.tar.gz",
+                "title": "Evening Star 1891",
+                "description": "METS/ALTO XML files for the Evening Star of 1891. These have been compressed into a TAR Gzip archive (335.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1892.tar.gz",
+                "title": "Evening Star 1892",
+                "description": "METS/ALTO XML files for the Evening Star of 1892. These have been compressed into a TAR Gzip archive (338MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1893.tar.gz",
+                "title": "Evening Star 1893",
+                "description": "METS/ALTO XML files for the Evening Star of 1893. These have been compressed into a TAR Gzip archive (338.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1894.tar.gz",
+                "title": "Evening Star 1894",
+                "description": "METS/ALTO XML files for the Evening Star of 1894. These have been compressed into a TAR Gzip archive (350.8MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1895.tar.gz",
+                "title": "Evening Star 1895",
+                "description": "METS/ALTO XML files for the Evening Star of 1895. These have been compressed into a TAR Gzip archive (353MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1896.tar.gz",
+                "title": "Evening Star 1896",
+                "description": "METS/ALTO XML files for the Evening Star of 1896. These have been compressed into a TAR Gzip archive (349.2MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1897.tar.gz",
+                "title": "Evening Star 1897",
+                "description": "METS/ALTO XML files for the Evening Star of 1897. These have been compressed into a TAR Gzip archive (345.4MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1898.tar.gz",
+                "title": "Evening Star 1898",
+                "description": "METS/ALTO XML files for the Evening Star of 1898. These have been compressed into a TAR Gzip archive (361.8MB).",
+                "format": "XML"
+            },
+            {
+                "downloadURL": "https://paperspast.natlib.govt.nz/opendata/titles/ESD/ESD_1899.tar.gz",
+                "title": "Evening Star 1899",
+                "description": "METS/ALTO XML files for the Evening Star of 1899. These have been compressed into a TAR Gzip archive (382.6MB).",
+                "format": "XML"
+            }
+        ]
     }
 ]}
