@@ -8,7 +8,7 @@
             "title": "Papers Past Open Data: Dunstan Times 1866-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Dunstan Times for 1866-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/dunstan-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -234,7 +234,7 @@
             "title": "Papers Past Open Data: Evening Star 1865-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Evening Star for 1865-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO?(https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/evening-star",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -454,7 +454,7 @@
             "title": "Papers Past Open Data: Feilding Star 1882-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Feilding Star for 1882-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/feilding-star",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -584,7 +584,7 @@
             "title": "Papers Past Open Data: Golden Bay Argus 1883-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Golden Bay Argus for 1883-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/golden-bay-argus",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -708,7 +708,7 @@
             "title": "Papers Past Open Data: Grey River Argus 1866-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Grey River Argus for 1866-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/grey-river-argus",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -934,7 +934,7 @@
             "title": "Papers Past Open Data: Hawera & Normanby Star 1880-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Hawera & Normanby Star for 1880-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/hawera-normanby-star",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -1064,7 +1064,7 @@
             "title": "Papers Past Open Data: Hawke's Bay Herald 1857-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Hawke's Bay Herald for 1857-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-herald",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -1302,7 +1302,7 @@
             "title": "Papers Past Open Data: Hawke's Bay Times 1861-1874",
             "description": "This dataset consists of the METS/ALTO XML files for the Hawke's Bay Times for 1861-1874.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/hawke-s-bay-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -1408,7 +1408,7 @@
             "title": "Papers Past Open Data: Hot Lakes Chronicle 1895-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Hot Lakes Chronicle for 1895-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/hot-lakes-chronicle",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -1448,7 +1448,7 @@
             "title": "Papers Past Open Data: Inangahua Times 1877-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Inangahua Times for 1877-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/inangahua-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -1596,7 +1596,7 @@
             "title": "Papers Past Open Data: Kumara Times 1877-1896",
             "description": "This dataset consists of the METS/ALTO XML files for the Kumara Times for 1877-1896.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at�What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/kumara-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -1702,7 +1702,7 @@
             "title": "Papers Past Open Data: Lake County Press 1872-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Lake County Press for 1872-1899.  \n  \nPapers Past�is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/lake-county-press",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -1868,7 +1868,7 @@
             "title": "Papers Past Open Data: Lake Wakatip Mail 1863-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Lake Wakatip Mail for 1863-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/lake-wakatip-mail",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -2100,7 +2100,7 @@
             "title": "Papers Past Open Data: Lyttelton Times 1851-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Lyttelton Times for 1851-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/lyttelton-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -2416,7 +2416,7 @@
             "title": "Papers Past Open Data: Manawatu Herald 1878-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Manawatu Herald for 1878-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/manawatu-herald",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -2529,7 +2529,7 @@
             "title": "Papers Past Open Data: Manawatu Standard 1883-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Manawatu Standard for 1883-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/manawatu-standard",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -2599,7 +2599,7 @@
             "title": "Papers Past Open Data: Manawatu Times 1877-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Manawatu Times for 1877-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/manawatu-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -2700,7 +2700,7 @@
             "title": "Papers Past Open Data: Marlborough Express 1868-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Marlborough Express for 1868-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/marlborough-express",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -2914,7 +2914,7 @@
             "title": "Papers Past Open Data: Mataura Ensign 1883-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Mataura Ensign for 1883-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/mataura-ensign",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3020,7 +3020,7 @@
             "title": "Papers Past Open Data: Mount Ida Chronicle 1869-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Mount Ida Chronicle for 1869-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/mount-ida-chronicle",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3228,7 +3228,7 @@
             "title": "Papers Past Open Data: Mt Benger Mail 1881-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Mt Benger Mail for 1881-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/mt-benger-mail",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3292,7 +3292,7 @@
             "title": "Papers Past Open Data: Nelson Evening Mail 1866-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Nelson Evening Mail for 1866-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/nelson-evening-mail",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3518,7 +3518,7 @@
             "title": "Papers Past Open Data: New Zealand Advertiser and Bay of Islands Gazette 1840-1840",
             "description": "This dataset consists of the METS/ALTO XML files for the New Zealand Advertiser and Bay of Islands Gazette for 1840.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-advertiser-and-bay-of-islands-gazette",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3545,7 +3545,7 @@
             "title": "Papers Past Open Data: New Zealand Colonist and Port Nicholson Advertiser 1842-1843",
             "description": "This dataset consists of the METS/ALTO XML files for the New Zealand Colonist and Port Nicholson Advertiser for 1842-1843.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-colonist-and-port-nicholson-advertiser",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3579,7 +3579,7 @@
             "title": "Papers Past Open Data: New Zealand Gazette and Wellington Spectator 1839-1844",
             "description": "This dataset consists of the METS/ALTO XML files for the New Zealand Gazette and Wellington Spectator for 1839-1844.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-gazette-and-wellington-spectator",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3637,7 +3637,7 @@
             "title": "Papers Past Open Data: New Zealand Spectator and Cook's Strait Guardian 1844-1865",
             "description": "This dataset consists of the METS/ALTO XML files for the New Zealand Spectator and Cook's Strait Guardian for 1844-1865.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-spectator-and-cook-s-strait-guardian",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3731,7 +3731,7 @@
             "title": "Papers Past Open Data: New Zealand Times 1874-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the New Zealand Times for 1874-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/new-zealand-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -3909,7 +3909,7 @@
             "title": "Papers Past Open Data: North Otago Times 1864-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the North Otago Times for 1864-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/north-otago-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -4147,7 +4147,7 @@
             "title": "Papers Past Open Data: Northern Advocate 1887-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Northern Advocate for 1887-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/northern-advocate",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -4223,7 +4223,7 @@
             "title": "Papers Past Open Data: Oamaru Mail 1876-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Oamaru Mail for 1876-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/oamaru-mail",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -4389,7 +4389,7 @@
             "title": "Papers Past Open Data: Observer 1880-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Observer for 1880-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/observer",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -4525,7 +4525,7 @@
             "title": "Papers Past Open Data: Ohinemuri Gazette 1891-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Ohinemuri Gazette for 1891-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/ohinemuri-gazette",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -4583,7 +4583,7 @@
             "title": "Papers Past Open Data: Opunake Times 1894-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Opunake Times for 1894-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/opunake-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -4641,7 +4641,7 @@
             "title": "Papers Past Open Data: Otago Daily Times 1861-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Otago Daily Times for 1861-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/otago-daily-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -4897,7 +4897,7 @@
             "title": "Papers Past Open Data: Otago Witness 1851-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Otago Witness for 1851-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/otago-witness",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -5213,7 +5213,7 @@
             "title": "Papers Past Open Data: Oxford Observer 1889-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Oxford Observer for 1889-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/oxford-observer",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -5301,7 +5301,7 @@
             "title": "Papers Past Open Data: Patea Mail 1875-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Patea Mail for 1875-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/patea-mail",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -5461,7 +5461,7 @@
             "title": "Papers Past Open Data: Pelorus Guardian and Miners' Advocate. 1890-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Pelorus Guardian and Miners' Advocate. for 1890-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/pelorus-guardian-and-miners-advocate",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -5543,7 +5543,7 @@
             "title": "Papers Past Open Data: Poverty Bay Herald 1879-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Poverty Bay Herald for 1879-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/poverty-bay-herald",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -5691,7 +5691,7 @@
             "title": "Papers Past Open Data: Press 1861-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Press for 1861-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/press",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -5947,7 +5947,7 @@
             "title": "Papers Past Open Data: South Canterbury Times 1879-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the South Canterbury Times for 1879-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/south-canterbury-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -6089,7 +6089,7 @@
             "title": "Papers Past Open Data: Southern Cross 1893-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Southern Cross for 1893-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/southern-cross",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -6153,7 +6153,7 @@
             "title": "Papers Past Open Data: Southland Times 1862-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Southland Times for 1862-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/southland-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -6385,7 +6385,7 @@
             "title": "Papers Past Open Data: Star 1868-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Star for 1868-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/star-christchurch",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -6599,7 +6599,7 @@
             "title": "Papers Past Open Data: Taranaki Herald 1852-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Taranaki Herald for 1852-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/taranaki-herald",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -6909,7 +6909,7 @@
             "title": "Papers Past Open Data: Te Aroha News 1883-1889",
             "description": "This dataset consists of the METS/ALTO XML files for the Te Aroha News for 1883-1889.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/te-aroha-news",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -6973,7 +6973,7 @@
             "title": "Papers Past Open Data: Temuka Leader 1878-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Temuka Leader for 1878-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). (see https://paperspast.natlib.govt.nz/) It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/temuka-leader",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -7127,7 +7127,7 @@
             "title": "Papers Past Open Data: Thames Advertiser 1874-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Thames Advertiser for 1874-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/thames-advertiser",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -7305,7 +7305,7 @@
             "title": "Papers Past Open Data: Thames Star 1874-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Thames Star for 1874-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/thames-star",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -7477,7 +7477,7 @@
             "title": "Papers Past Open Data: Timaru Herald 1864-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Timaru Herald for 1864-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/timaru-herald",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -7715,7 +7715,7 @@
             "title": "Papers Past Open Data: Tuapeka Times 1868-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Tuapeka Times for 1868-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/tuapeka-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -7929,7 +7929,7 @@
             "title": "Papers Past Open Data: Waikato Argus 1896-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Waikato Argus for 1896-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/waikato-argus",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -7975,7 +7975,7 @@
             "title": "Papers Past Open Data: Waikato Times 1872-1895",
             "description": "This dataset consists of the METS/ALTO XML files for the Waikato Times for 1872-1895.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/waikato-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -8141,7 +8141,7 @@
             "title": "Papers Past Open Data: Waimate Daily Advertiser 1898-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Waimate Daily Advertiser for 1898-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/waimate-daily-advertiser",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -8175,7 +8175,7 @@
             "title": "Papers Past Open Data: Wairarapa Daily Times 1879-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Wairarapa Daily Times for 1879-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-daily-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -8323,7 +8323,7 @@
             "title": "Papers Past Open Data: Wairarapa Standard 1867-1887",
             "description": "This dataset consists of the METS/ALTO XML files for the Wairarapa Standard for 1867-1887.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/wairarapa-standard",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -8471,7 +8471,7 @@
             "title": "Papers Past Open Data: Wanganui Chronicle 1874-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Wanganui Chronicle for 1874-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/wanganui-chronicle",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -8649,7 +8649,7 @@
             "title": "Papers Past Open Data: Wanganui Herald 1867-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Wanganui Herald for 1867-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/wanganui-herald",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -8869,7 +8869,7 @@
             "title": "Papers Past Open Data: Wellington Independent 1845-1874",
             "description": "This dataset consists of the METS/ALTO XML files for the Wellington Independent for 1845-1874.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/wellington-independent",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -9065,7 +9065,7 @@
             "title": "Papers Past Open Data: West Coast Times 1865-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the West Coast Times for 1865-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/west-coast-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -9297,7 +9297,7 @@
             "title": "Papers Past Open Data: Western Star 1873-1898",
             "description": "This dataset consists of the METS/ALTO XML files for the Western Star for 1873-1898.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/western-star",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -9475,7 +9475,7 @@
             "title": "Papers Past Open Data: Westport Times 1868-1886",
             "description": "This dataset consists of the METS/ALTO XML files for the Westport Times for 1868-1886.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/westport-times",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
@@ -9605,7 +9605,7 @@
             "title": "Papers Past Open Data: Woodville Examiner 1883-1899",
             "description": "This dataset consists of the METS/ALTO XML files for the Woodville Examiner for 1883-1899.  \n  \nPapers Past is a website run by the National Library of New Zealand (see https://paperspast.natlib.govt.nz/). It provides free fully-text searchable access to historic newspapers, periodicals and other material.  \n  \nSome of the data that sits behind Papers Past has now been openly released. This consists of the data for 78 newspapers, all published before 1900. The data itself is METS/ALTO XML files, created by the automated Optical Character Recognition (OCR) process. It does not contain images of the newspaper pages, but it does contain the metadata and full text of the newspaper issues. You can find out more about METS/ALTO at What is METS/ALTO? (https://veridiansoftware.com/knowledge-base/metsalto/)\n",
             "identifier": "https://paperspast.natlib.govt.nz/newspapers/woodville-examiner",
-            "theme": ["Papers Past Open Data"],
+            
             "issued": "2020-08-24",
             "publisher": {
                 "@type": "org:Organization",
