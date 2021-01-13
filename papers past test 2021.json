@@ -11,11 +11,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -237,11 +237,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -457,11 +457,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -587,11 +587,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -711,11 +711,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -937,11 +937,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -1067,11 +1067,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -1305,11 +1305,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -1411,11 +1411,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -1451,11 +1451,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -1599,11 +1599,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -1705,11 +1705,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -1871,11 +1871,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -2103,11 +2103,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -2419,11 +2419,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -2532,11 +2532,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -2602,11 +2602,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -2703,11 +2703,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -2917,11 +2917,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3023,11 +3023,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3231,11 +3231,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3295,11 +3295,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3521,11 +3521,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3548,11 +3548,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3582,11 +3582,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3640,11 +3640,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3734,11 +3734,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -3912,11 +3912,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -4150,11 +4150,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -4226,11 +4226,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -4392,11 +4392,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -4528,11 +4528,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -4586,11 +4586,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -4644,11 +4644,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -4900,11 +4900,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -5216,11 +5216,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -5304,11 +5304,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -5464,11 +5464,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -5546,11 +5546,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -5694,11 +5694,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -5950,11 +5950,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -6092,11 +6092,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -6156,11 +6156,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -6388,11 +6388,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -6602,11 +6602,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -6912,11 +6912,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -6976,11 +6976,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -7130,11 +7130,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -7308,11 +7308,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -7480,11 +7480,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -7718,11 +7718,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -7932,11 +7932,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -7978,11 +7978,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -8144,11 +8144,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -8178,11 +8178,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -8326,11 +8326,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -8474,11 +8474,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -8652,11 +8652,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -8872,11 +8872,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -9068,11 +9068,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -9300,11 +9300,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -9478,11 +9478,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
@@ -9608,11 +9608,11 @@
             "theme": "Papers Past Open Data",
             "issued": "2020-08-24",
             "publisher": {
-                "@type": "org:Organization"
+                "@type": "org:Organization",
                 "name": "Department of Internal Affairs"
             },
             "contactPoint": {
-                "@type": "vcard:Contact"
+                "@type": "vcard:Contact",
                 "fn": "Papers Past",
                 "hasEmail": "paperspast@natlib.govt.nz"
             },
