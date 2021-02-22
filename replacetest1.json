@@ -6,7 +6,7 @@
   "dataset":
     [{
 			"@type": "dcat:Dataset",
-			"title": "Harvest Replace Test 3",
+			"title": "Harvest Replace Test 4",
 			"landingPage": "https://github.com/GOVTNZ/public-sector-websites",
 			"identifier": "https://github.com/GOVTNZ/public-sector-websites-test2",
 			"issued": "2011-08-26",
