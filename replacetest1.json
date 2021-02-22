@@ -1,0 +1,36 @@
+{
+  "@context": "https://raw.githubusercontent.com/data-govt-nz/schema/master/schema.jsonld",
+	"@id": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/data.json",
+	"@type": "dcat:Catalog",
+	"conformsTo": "https://github.com/data-govt-nz/schema",
+  "dataset":
+    [{
+			"@type": "dcat:Dataset",
+			"title": "Harvest Replace Test",
+			"landingPage": "https://github.com/GOVTNZ/public-sector-websites",
+			"identifier": "https://github.com/GOVTNZ/public-sector-websites",
+			"issued": "2011-08-26",
+			"modified": "2017-09-11",
+			"description": "List of websites owned and administered by the New Zealand Public Sector. The Department of Internal Affairs acknowledges this list has been compiled to the best of their knowledge, but it is not a complete list of all Public Sector websites. This list will be updated as the Department becomes aware of required updates.",
+			"keyword": ["public sector", "websites", "open government", "web standards", "public sector websites", "url", "website", "web site"],
+			"theme": "State sector performance",
+			"accrualPeriodicity": "R/P1Y",
+			"license": "https://creativecommons.org/licenses/by/4.0/",
+			"publisher": {
+				"@type": "org:Organization",
+				"name": "Department of Internal Affairs"
+			},
+			"contactPoint": {
+				"@type": "vcard:Contact",
+				"fn": "Christian Linnell",
+				"hasEmail": "moderator@dia.govt.nz?subject=Enquiry from data.govt.nz"
+			},
+			"distribution": [
+        {
+          "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/2011-08-26/public-sector-domains123.csv",
+          "title": "123 test",
+          "format": "csv"
+        }				
+      ]
+  }]
+}
